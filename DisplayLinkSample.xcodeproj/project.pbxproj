@@ -156,6 +156,7 @@
 		CE39A2ED1A77793A007C4D9E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "VASILY Inc.,";
 				TargetAttributes = {
@@ -407,6 +408,7 @@
 				CE39A3161A77793A007C4D9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE39A3171A77793A007C4D9E /* Build configuration list for PBXNativeTarget "DisplayLinkSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				CE39A3191A77793A007C4D9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
